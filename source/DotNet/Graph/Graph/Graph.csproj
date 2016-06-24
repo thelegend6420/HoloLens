@@ -8,8 +8,8 @@
     <ProjectGuid>{13a45c13-3265-47b8-bc48-a553b569df55}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>New_Unity_Project</RootNamespace>
-    <AssemblyName>New Unity Project</AssemblyName>
+    <RootNamespace>Graph</RootNamespace>
+    <AssemblyName>Graph</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>

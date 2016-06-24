@@ -320,3 +320,4 @@ paket-files/
 # VS end
 source/Unity/Graph/Library/ShaderCache/
 source/Unity/Graph/Library/metadata/
+source/Unity/Graph/Temp/

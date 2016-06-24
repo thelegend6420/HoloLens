@@ -5,16 +5,16 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-New Unity Project.sln: 5E8D36E442C544B6F180C201BFDCE3DB
-New Unity Project\App.cs: 93CE8EA00D02F5816E7E1CB931ACD91B
-New Unity Project\New Unity Project.csproj: F3DAE1790372E304332BE3338DFF5329
-New Unity Project\New Unity Project.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
-New Unity Project\Package.appxmanifest: 3806182F6B16E6D851D216EACCE2CBD8
-New Unity Project\project.json: 1D02BC64BAC0D041019673A1C4C51737
-New Unity Project\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
-New Unity Project\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-New Unity Project\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-New Unity Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-New Unity Project\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-New Unity Project\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-New Unity Project\Properties\AssemblyInfo.cs: 0256BB0161FB258FFB4265014483303D
+Graph.sln: 437AA3F27FCE32F77EB22540477F1D4E
+Graph\App.cs: 3622206111C7E324A2513FD0D2ACF8BF
+Graph\Graph.csproj: 01753ED5E2E452015438FCFE4670284B
+Graph\Graph.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Graph\Package.appxmanifest: 3D7B7BAE7D1DFD745B59598705A86963
+Graph\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Graph\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+Graph\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+Graph\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+Graph\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+Graph\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+Graph\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+Graph\Properties\AssemblyInfo.cs: A42904577FF6DE6BBA1C6335BAAB3A33

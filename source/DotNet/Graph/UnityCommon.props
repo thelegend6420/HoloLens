@@ -3,6 +3,6 @@
         <UnityInstallationDir>C:\Program Files\Unity Hololens 5.4.0b20-HTP\Editor</UnityInstallationDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity Hololens 5.4.0b20-HTP\Editor\Data\PlaybackEngines\MetroSupport</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(SolutionDir)Unity\Tools</UnityWSAToolsDir>
-        <UnityProjectDir>D:\code\holoLens.git\HoloLens\Unity\Graph</UnityProjectDir>
+        <UnityProjectDir>D:\code\holoLens.git\HoloLens\source\Unity\Graph</UnityProjectDir>
     </PropertyGroup>
 </Project>

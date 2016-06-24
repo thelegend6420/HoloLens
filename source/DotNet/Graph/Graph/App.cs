@@ -6,7 +6,7 @@ using Windows.UI.Core;
 using Windows.UI.ViewManagement;
 using UnityPlayer;
 
-namespace New_Unity_Project
+namespace Graph
 {
 	class App : IFrameworkView, IFrameworkViewSource
 	{
