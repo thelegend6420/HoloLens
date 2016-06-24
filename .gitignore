@@ -318,3 +318,5 @@ paket-files/
 .idea/
 *.sln.iml
 # VS end
+source/Unity/Graph/Library/ShaderCache/
+source/Unity/Graph/Library/metadata/
