@@ -36,7 +36,7 @@ public class WebApiInvoke  {
 
     }
 #else
-    public void PostAsyn(string url, Dictionary<string, string> param)
+    public void PostAsyn(string url, Dictionary<string, object> param)
     {
         throw new NotImplementedException();
     }
